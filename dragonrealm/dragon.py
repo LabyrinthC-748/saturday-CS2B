@@ -22,6 +22,8 @@ def choose_cave():
         cave = input()
     return cave
 
+print("Hello world!")
+
 show_intro()
 choose_cave()
 
